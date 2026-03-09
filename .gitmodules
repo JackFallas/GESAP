@@ -1,3 +1,6 @@
 [submodule "gesap-api"]
 	path = gesap-api
 	url = git@github.com:JackFallas/gesap-api.git
+[submodule "gesap-auditor"]
+	path = gesap-auditor
+	url = git@github.com:JackFallas/gesap-auditor.git
