@@ -1,0 +1,3 @@
+[submodule "gesap-api"]
+	path = gesap-api
+	url = git@github.com:JackFallas/gesap-api.git
