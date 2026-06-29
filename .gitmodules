@@ -1,18 +1,18 @@
 [submodule "gesap-api"]
 	path = gesap-api
-	url = https://github.com/marcss-bnajera/gesap-api.git
+	url = git@github.com:JackFallas/gesap-api.git
 [submodule "gesap-auditor"]
 	path = gesap-auditor
-	url = https://github.com/marcss-bnajera/gesap-auditor.git
+	url = git@github.com:JackFallas/gesap-auditor.git
 [submodule "gesap-patient-portal"]
 	path = gesap-patient-portal
-	url = https://github.com/marcss-bnajera/gesap-patient-portal.git
+	url = git@github.com:JackFallas/gesap-patient-portal.git
 [submodule "client-api-gesap"]
 	path = client-api-gesap
-	url = https://github.com/marcss-bnajera/client-api-gesap.git
+	url = git@github.com:JackFallas/client-api-gesap.git
 [submodule "client-auditor-gesap"]
 	path = client-auditor-gesap
-	url = https://github.com/marcss-bnajera/client-auditor-gesap.git
+	url = git@github.com:JackFallas/client-auditor-gesap.git
 [submodule "client-patient-gesap"]
 	path = client-patient-gesap
-	url = https://github.com/marcss-bnajera/client-patient-gesap.git
+	url = git@github.com:JackFallas/client-patient-gesap.git
